@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working for Squad Zenith.
 - 🌱 I’m currently learning Angular.
-- 💬 Ask me about Flutter, Angular, Angualar Material, C#, Jasper Reports.
+- 💬 Ask me about Flutter, Angular, Angular Material, C#, Jasper Reports.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I 💘 💻 && I 💘 📷🎥.
 
